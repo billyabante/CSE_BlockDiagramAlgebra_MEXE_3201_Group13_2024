@@ -1,4 +1,23 @@
 # CSE_BlockDiagramAlgebra_MEXE_3201_Group13_2024
+#
+ <h2 align="center">Block Diagram 1 
+
+![image](https://github.com/billyabante/CSE_BlockDiagramAlgebra_MEXE_3201_Group13_2024/assets/157590037/f1fe0e4c-63e5-47be-9dd7-ea130e9d3d3b)
+
+ # 
+ <h2 align="center">Step Response 
+  
+![image](https://github.com/billyabante/CSE_BlockDiagramAlgebra_MEXE_3201_Group13_2024/assets/157590037/a0650975-15d8-4255-8636-b90f250127c2)
+
+# 
+ <h2 align="center">Simulink 
+
+ ![image](https://github.com/billyabante/CSE_BlockDiagramAlgebra_MEXE_3201_Group13_2024/assets/157590037/94330790-640b-4323-830c-c49b8b16c156)
+
+ # 
+ <h2 align="center">Sinusoidal 
+  
+ ![image](https://github.com/billyabante/CSE_BlockDiagramAlgebra_MEXE_3201_Group13_2024/assets/157590037/368c41c7-5496-44bb-943c-a0e02b9ad17c)
 
 #
  <h2 align="center">Block Diagram 2 
