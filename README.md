@@ -1,6 +1,6 @@
 # CSE_BlockDiagramAlgebra_MEXE_3201_Group13_2024
 ![Technology google classroom header in purple illustrative style (1)](https://github.com/billyabante/CSE_BlockDiagramAlgebra_MEXE_3201_Group13_2024/assets/157590037/8b1dfecc-d445-4c93-804a-94a9bb85c6f7)
-![Jacobian Matrix (1)](https://github.com/billyabante/CSE_BlockDiagramAlgebra_MEXE_3201_Group13_2024/assets/157568463/7db27da5-6de7-431d-93c3-b39cd209f2d9)
+
 
 #
  <h2 align="center">Block Diagram 1 
