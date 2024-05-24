@@ -45,3 +45,4 @@
    ![Screenshot 2024-05-21 203225](https://github.com/billyabante/CSE_BlockDiagramAlgebra_MEXE_3201_Group13_2024/assets/157665849/23c912c2-abf9-441b-b189-a9bd63797761)
 
    
+ <h2 align="center">Block Diagram 2 Solution
