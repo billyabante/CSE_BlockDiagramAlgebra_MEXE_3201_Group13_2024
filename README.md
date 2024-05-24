@@ -6,6 +6,8 @@
  <h2 align="center">Block Diagram 1 
 
 ![image](https://github.com/billyabante/CSE_BlockDiagramAlgebra_MEXE_3201_Group13_2024/assets/157590037/f1fe0e4c-63e5-47be-9dd7-ea130e9d3d3b)
+![image](https://github.com/billyabante/CSE_BlockDiagramAlgebra_MEXE_3201_Group13_2024/assets/157590037/25202ee6-358e-482c-a592-cf0e2de05a27)
+
 
  <h2 align="center">Step Response 
   
