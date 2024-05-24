@@ -47,9 +47,4 @@
    
  <h2 align="center">Block Diagram 2 Solution
 
- ![440930537_486802900576479_5859794528402460404_n](https://github.com/billyabante/CSE_BlockDiagramAlgebra_MEXE_3201_Group13_2024/assets/157568463/5c561c03-dc12-4559-9e32-7bc017b46c5f)
-![436166788_1380166526026717_6238004375126840908_n](https://github.com/billyabante/CSE_BlockDiagramAlgebra_MEXE_3201_Group13_2024/assets/157568463/36180c9d-711c-406d-b6d2-b28d83085dc2)
-![440928476_463148866186342_7514702103995782170_n](https://github.com/billyabante/CSE_BlockDiagramAlgebra_MEXE_3201_Group13_2024/assets/157568463/33ea2015-dd78-4b4c-81bd-c71f969fe75a)
-![445662575_333456029767650_3324676966840176461_n](https://github.com/billyabante/CSE_BlockDiagramAlgebra_MEXE_3201_Group13_2024/assets/157568463/0d4cb099-7dcf-4bb6-ab23-a9303482d31e)
-![441940208_1163677397968077_9148122914742158555_n](https://github.com/billyabante/CSE_BlockDiagramAlgebra_MEXE_3201_Group13_2024/assets/157568463/b23ad001-de99-4671-9902-d71c0cdc5750)
-![445978894_3450877515204067_5111803074288070065_n]
+
