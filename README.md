@@ -21,6 +21,12 @@
   
  ![image](https://github.com/billyabante/CSE_BlockDiagramAlgebra_MEXE_3201_Group13_2024/assets/157590037/368c41c7-5496-44bb-943c-a0e02b9ad17c)
 
+ <h2 align="center">Block Diagram 1 Solution
+ 
+![CSE BD1 FORMULA (1)](https://github.com/billyabante/CSE_BlockDiagramAlgebra_MEXE_3201_Group13_2024/assets/157590037/4a72d1d4-96c4-43c4-a89c-2a3bd76a53cc)
+![CSE BD1 FORMULA (2)](https://github.com/billyabante/CSE_BlockDiagramAlgebra_MEXE_3201_Group13_2024/assets/157590037/0a0ca9a6-1abe-42a1-862f-bfaa9a5aea91)
+
+
 #
  <h2 align="center">Block Diagram 2 
 
